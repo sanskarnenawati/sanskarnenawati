@@ -7,7 +7,6 @@ AI/ML Engineer
 A committed and outcome-oriented AI and Machine Learning enthusiast, I possess proficiency in a diverse range of programming languages, such as Python, Java, and SQL, coupled with a comprehensive grasp of associated technologies. My enthusiasm lies in harnessing these skills to confront real-world challenges and contribute significantly to technological progress. With a discerning eye for issue identification and a proactive problem-solving approach, I am dedicated to fostering innovation in the AI field. My project portfolio mirrors a strategic vision concentrated on addressing urgent issues and pushing the boundaries of contemporary technology. Actively involved in the dynamic landscape of AI, I am eager to explore inventive applications that usher in positive changes in our daily lives. This underscores not only a forward-thinking mindset but also a steadfast commitment to creating a lasting impact in the realm of artificial intelligence.
 
 * 🌍  I'm based in Pune
-* 🖥️  See my portfolio at [My Portfolio](http://nenu.tiiny.site/)
 * ✉️  You can contact me at [sanskarnenawati@gmail.com](mailto:sanskarnenawati@gmail.com)
 * 🧠  I'm learning Generative Adversarial Networks
 * 🤝  I'm open to collaborating on Projects
